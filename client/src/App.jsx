@@ -13,3 +13,7 @@ function App() {
 }
 
 export default App;
+
+
+{/* Create an Apollo Provider to make 
+  every request work with the Apollo Server. */}
