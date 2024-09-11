@@ -1,3 +1,5 @@
+const { gql } = require("apollo-server-express");
+ 
 `Query` type:
 
       * `me`: Which returns a `User` type.
