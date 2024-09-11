@@ -1,5 +1,26 @@
 const { gql } = require("apollo-server-express");
  
+const typeDefs = gql 
+type User {
+    id: ID
+    username: String
+    email: String
+    bookCount: INTEGER
+    savedBooks: [book] //array of "book" type
+}
+`Book` type:
+
+      * `bookId` (Not the `_id`, but the book's `id` value returned from Google's Book API.)
+
+      * `authors` (An array of strings, as there may be more than one author.)
+
+      * `description`
+
+      * `title`
+
+      * `image`
+
+      * `link`
 `Query` type:
 
       * `me`: Which returns a `User` type.
@@ -14,31 +35,6 @@ const { gql } = require("apollo-server-express");
 
       * `removeBook`: Accepts a book's `bookId` as a parameter; returns a `User` type.
 
-    * `User` type:
-
-      * `_id`
-
-      * `username`
-
-      * `email`
-
-      * `bookCount`
-
-      * `savedBooks` (This will be an array of the `Book` type.)
-
-    * `Book` type:
-
-      * `bookId` (Not the `_id`, but the book's `id` value returned from Google's Book API.)
-
-      * `authors` (An array of strings, as there may be more than one author.)
-
-      * `description`
-
-      * `title`
-
-      * `image`
-
-      * `link`
 
     * `Auth` type:
 
