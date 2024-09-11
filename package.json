@@ -1,7 +1,7 @@
 {
   "name": "googlebooks-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "- [Visuals](#visuals)\r - [Usage](#usage)\r - [Installation](#installation)\r - [Support](#support)\r - [Contributions](#contributions)\r - [References](#references)\r - [License](#license)",
   "main": "server/server.js",
   "scripts": {
     "start": "node server/server.js",
