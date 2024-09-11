@@ -9,8 +9,7 @@
     "install": "cd server && npm i && cd ../client && npm i",
     "build": "cd client && npm run build",
     "render-build": "npm run install && npm run build",
-    "render-buil-d": "npm run install && npm run build"
-
+    "render-buil-d": "npm install && npm run build"
   },
   "keywords": [],
   "author": "",
