@@ -45,3 +45,5 @@ const { gql } = require("apollo-server-express");
       * `token`
 
       * `user` (References the `User` type.)
+
+module.exports = typeDefs;
