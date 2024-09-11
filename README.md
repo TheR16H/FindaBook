@@ -1,6 +1,7 @@
 # MERN21
 
 ## Description 
+<!-- [Mern](https://mern21.onrender.com) -->
 
 ## Table of Contents
 
@@ -14,10 +15,11 @@
 
 ## Visuals
  <!-- ![Screenshot](./public/assets/images/Visual-1-SS.png)
-![gif](./public/assets/images/visual2.gif) -->
+![gif](./public/assets/images/visual2.gif) 
+![DEMO VIDEO](google.com) ⬅ Click me -->
 
 ## Usage
-
+<!-- the intended usage -->
 
 ## Installation
 <!-- to install any of the required npm packages just run the following command in your terminal. 
@@ -34,7 +36,7 @@ no contributions will be needed for this project.
 ## References
 <!-- - [R1](https://google.com)
 - [R2](https://google.com)
-- [MONGODB & Render Deploy](https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-render-and-mongodb-atlas) -->
+- [Mongodb-Render Deploy](https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-render-and-mongodb-atlas) -->
 
 ## License
 <!-- MIT License 🔔
