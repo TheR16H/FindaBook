@@ -1,7 +1,7 @@
 # MERN21
 
 ## Description 
-A book search engine using googles api build on a MERN stack
+A book search engine using googles api built on a MERN stack
 ## Table of Contents
 
 <!-- - [Visuals](#visuals) -->
