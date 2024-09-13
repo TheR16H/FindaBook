@@ -1,28 +1,28 @@
 # MERN21
 
 ## Description 
-<!-- [Mern](https://mern21.onrender.com) -->
-
+A book search engine using googles api build on a MERN stack
 ## Table of Contents
 
-- [Visuals](#visuals)
+<!-- - [Visuals](#visuals) -->
 - [Usage](#usage)
-- [Installation](#installation)
+<!-- - [Installation](#installation) -->
 - [Support](#support)
 - [Contributions](#contributions)
 - [References](#references)
 - [License](#license)
 
+<!--
 ## Visuals
- <!-- ![Screenshot](./public/assets/images/Visual-1-SS.png)
+![Screenshot](./public/assets/images/Visual-1-SS.png)
 ![gif](./public/assets/images/visual2.gif) 
-![DEMO VIDEO](google.com) ⬅ Click me -->
+![DEMO VIDEO](google.com) ⬅ Click me --> 
 
 ## Usage
-<!-- the intended usage -->
+the original intended usage was to be able to seach for any book while using googles api
 
-## Installation
-<!-- to install any of the required npm packages just run the following command in your terminal. 
+<!-- ## Installation
+to install any of the required npm packages just run the following command in your terminal. 
 ```
 npm i
 ``` -->
@@ -31,15 +31,13 @@ npm i
 Find me on [Github!](https://github.com/TheR16H) for any support or to see any of my other works.
 
 ## Contributions
-no contributions will be needed for this project.
+No contributions will be needed for this project
 
 ## References
-<!-- - [R1](https://google.com)
-- [R2](https://google.com)
-- [Mongodb-Render Deploy](https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-render-and-mongodb-atlas) -->
+- [Mongodb-Render Deploy](https://coding-boot-camp.github.io/full-stack/mongodb/deploy-with-render-and-mongodb-atlas)
 
 ## License
-<!-- MIT License 🔔
+MIT License 🔔
 
 Copyright (c) 2024 Rashawn Hall
 
@@ -59,4 +57,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. -->
+SOFTWARE.
