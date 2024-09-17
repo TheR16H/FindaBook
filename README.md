@@ -1,4 +1,4 @@
-# MERN21
+# FindaBook
 
 ## Description 
 A book search engine using googles api built on a MERN stack
